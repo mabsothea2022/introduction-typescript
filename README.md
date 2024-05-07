@@ -1,2 +1,2 @@
 # Introdution to typescript
-Reference (https://www.typescriptlang.org/)[Click here]
+Reference (Click here)[https://www.typescriptlang.org/]
